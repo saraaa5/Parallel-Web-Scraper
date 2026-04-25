@@ -1,0 +1,13 @@
+OVERALL STATISTICS
+num of downloaded pages: 10
+num of unicate urls: 10
+total download time: 889 ms
+permeability: 11.2486 pages per second
+
+ ANALYTICS OF PAGE CONTENT
+1. num of books with 5 stars: 35
+2. average book price: 35.6744 GBP
+3. the cheapest book: 10.160000 GBP
+ and the most expensive book: 59.450000 GBP
+4. num of books in stock: 187
+5. num of books starting with letter 'T': 29
